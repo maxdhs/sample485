@@ -24,5 +24,9 @@ let x = 3;
 console.log(x);
 
 // from your coworker
-let y = 4
-console.log(y)
+let y = 4;
+console.log(y);
+
+// so awesome we can use git pull to get our coworkers work automatically.
+
+let z = true;
