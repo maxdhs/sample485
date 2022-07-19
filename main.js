@@ -26,3 +26,5 @@ console.log(x);
 // from your coworker
 let y = 4
 console.log(y)
+
+let z = false;
