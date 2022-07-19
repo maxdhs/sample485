@@ -18,4 +18,7 @@
 // local git has no idea where our new repo on github is
 // git remote to make the link
 
-//
+// your first day at Drizzly
+
+let x = 3;
+console.log(x);
